@@ -3,16 +3,7 @@ S2-py
 =====
 
 
-.. image:: https://img.shields.io/pypi/v/s2.svg
-        :target: https://pypi.python.org/pypi/s2
-
-.. image:: https://img.shields.io/travis/JoaoCarabetta/s2.svg
-        :target: https://travis-ci.org/JoaoCarabetta/s2
-
-.. image:: https://readthedocs.org/projects/s2-py/badge/?version=latest
-        :target: https://s2-py.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
+\:warning: Project was merged to `BabelGrid <https://github.com/EL-BID/BabelGrid>`_ \:warning:
 
 A light wrapper over `s2sphere <https://github.com/sidewalklabs/s2sphere>`_ to mirror
 `H3-py <https://github.com/uber/h3-py>`_ API calls.
